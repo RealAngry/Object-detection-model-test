@@ -15,7 +15,7 @@ export default function Home() {
             className="underline underline-offset-1 hover:translate-y-1"
             href="https://angru.web.app/"
           >
-            Angruuu
+            @Angruuu
           </a>
         </p>
       </main>
