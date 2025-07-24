@@ -13,9 +13,9 @@ export default function Home() {
           Created by{" "}
           <a
             className="underline underline-offset-1 hover:translate-y-1"
-            href="https://juanjaho.github.io/"
+            href="https://angru.web.app/"
           >
-            @juanjaho
+            Angruuu
           </a>
         </p>
       </main>
